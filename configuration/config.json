@@ -2,18 +2,18 @@
   "TOKEN": "5959518030:AAFMuYi341gq0ebsz3YhE38JGhIzNNdD3AY",
 
   "ADMINS_ID": [
-    5536543760, 5119543311, 1502278162
+    5119543311, 1502278162
   ],
 
   "CHAT_FOR_ADMIN_MESSAGES": "-1001637506825",
 
-  "SUPPORT_LINK": "https://t.me/Handle_Work",
+  "SUPPORT_LINK": "https://t.me/PromRegion_help",
 
   "NEWS_CHANEL_LINK": "https://t.me/PromRegion_news",
 
   "MINIMUM_PRICE": 300,
 
-  "LOT_SAFE_HOURS": 24,
+  "LOT_SAFE_HOURS": 720,
 
   "TIME_FOR_UPDATE_LOTS": "01:00"
 }

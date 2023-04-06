@@ -1,0 +1,19 @@
+﻿{
+  "TOKEN": "6164335186:AAH7PLSClwz1bXQiuCh-HEm0KyTb0I6UfVU",
+
+  "ADMINS_ID": [
+    5536543760, 5119543311, 1502278162
+  ],
+
+  "CHAT_FOR_ADMIN_MESSAGES": "-1001637506825",
+
+  "SUPPORT_LINK": "https://t.me/Handle_Work",
+
+  "NEWS_CHANEL_LINK": "https://t.me/Handle_Work",
+
+  "MINIMUM_PRICE": 300,
+
+  "LOT_SAFE_HOURS": 24,
+
+  "TIME_FOR_UPDATE_LOTS": "01:00"
+}
